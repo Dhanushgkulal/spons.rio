@@ -8,7 +8,7 @@ summit — or a brand looking to grow visibility and community presence — Spon
 gives both sides a dedicated space to discover, negotiate, and confirm sponsorship 
 deals entirely online.
 
-## The Problem It Solves adithya
+## The Problem It Solves 
 
 Sponsorship in India (and globally) is still heavily dependent on cold calls, 
 WhatsApp forwards, and in-person meetings with no structured follow-up. Organizers 
