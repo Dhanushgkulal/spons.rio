@@ -76,16 +76,16 @@ export default function LandingPage() {
             <div className="relative bg-gradient-to-br from-secondary/20 to-primary/20 rounded-lg p-12 aspect-square flex items-center justify-center overflow-hidden">
               {/* Background Image */}
               <div 
-                className="absolute inset-0 bg-cover bg-center opacity-30"
-                style={{ backgroundImage: "url('/placeholder.jpg')" }}
+                className="absolute inset-0 bg-cover bg-center opacity-40"
+                style={{ backgroundImage: "url('/handshake.jpg.png')" }}
               />
               {/* Overlay gradient for better text visibility */}
-              <div className="absolute inset-0 bg-gradient-to-br from-primary/40 to-secondary/40" />
+              <div className="absolute inset-0 bg-gradient-to-br from-primary/50 to-secondary/50" />
               
               {/* Content */}
               <div className="relative z-10 text-center space-y-4">
-                <Sparkles className="w-24 h-24 text-primary mx-auto drop-shadow-lg" />
-                <p className="text-primary text-lg font-semibold drop-shadow">Premium Sponsorship Platform</p>
+                <Sparkles className="w-24 h-24 text-white mx-auto drop-shadow-lg" />
+                <p className="text-white text-lg font-semibold drop-shadow-lg">Premium Sponsorship Platform</p>
               </div>
             </div>
           </div>
